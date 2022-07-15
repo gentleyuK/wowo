@@ -1,4 +1,4 @@
-package com.bestinyu.wowo.other.to;
+package com.bestinyu.wowo.schoolrank.to;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

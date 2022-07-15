@@ -1,8 +1,8 @@
-package com.bestinyu.wowo.other;
+package com.bestinyu.wowo.schoolrank;
 
-import com.bestinyu.wowo.other.to.RankTO;
-import com.bestinyu.wowo.other.to.SchoolTO;
-import com.bestinyu.wowo.other.to.ScoreLineTO;
+import com.bestinyu.wowo.schoolrank.to.RankTO;
+import com.bestinyu.wowo.schoolrank.to.SchoolTO;
+import com.bestinyu.wowo.schoolrank.to.ScoreLineTO;
 import com.bestinyu.wowo.utils.HttpUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.poi.ss.usermodel.*;
